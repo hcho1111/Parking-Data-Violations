@@ -1,7 +1,6 @@
 # Parking-Data-Violations
 
-Important Links: 
+Data too large to be contained in singular folder, see this link: 
 
-Parking Violation Codes:
-https://data.cityofnewyork.us/widgets/ncbg-6agr
-https://www1.nyc.gov/site/finance/vehicles/services-violation-codes.page (More Detailed Descriptions)
+https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/p7t3-5i9s/
+
