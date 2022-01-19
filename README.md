@@ -1,6 +1,6 @@
 # Overview 
 
-This project is concerned with classifying paking violations according to vehicle, geolocation, and temporal features. I utilize a series of machine learning models in order to perform multiclass predictions. Contained in this repository are data, source code, results, figures, and a full written report on classification efforts. 
+This project is concerned with classifying parking violations according to vehicle, geolocation, and temporal features. I utilize a series of machine learning models in order to perform multiclass predictions. Contained in this repository are data, source code, results, figures, and a full written report on classification efforts. 
 
 ## Technical Details
 
