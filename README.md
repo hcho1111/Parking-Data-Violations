@@ -13,7 +13,7 @@ Run using Python 3.8.11. Packages:
 - scikit-learn 0.24.2 
 
 ## A note on Data 
-Data too large to be contained in singular folder, see this link: 
+Data too large to be contained in single folder, see this link: 
 
 https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/p7t3-5i9s/
 
